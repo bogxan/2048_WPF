@@ -1,0 +1,31 @@
+C:\Users\Bohdan\Desktop\examen\examen\bin\Debug\examen.exe.config
+C:\Users\Bohdan\Desktop\examen\examen\bin\Debug\examen.exe
+C:\Users\Bohdan\Desktop\examen\examen\bin\Debug\examen.pdb
+C:\Users\Bohdan\Desktop\examen\examen\obj\Debug\examen.csprojAssemblyReference.cache
+C:\Users\Bohdan\Desktop\examen\examen\obj\Debug\MainWindow.g.cs
+C:\Users\Bohdan\Desktop\examen\examen\obj\Debug\App.g.cs
+C:\Users\Bohdan\Desktop\examen\examen\obj\Debug\examen_MarkupCompile.cache
+C:\Users\Bohdan\Desktop\examen\examen\obj\Debug\examen_MarkupCompile.lref
+C:\Users\Bohdan\Desktop\examen\examen\obj\Debug\MainWindow.baml
+C:\Users\Bohdan\Desktop\examen\examen\obj\Debug\examen.g.resources
+C:\Users\Bohdan\Desktop\examen\examen\obj\Debug\examen.Properties.Resources.resources
+C:\Users\Bohdan\Desktop\examen\examen\obj\Debug\examen.csproj.GenerateResource.cache
+C:\Users\Bohdan\Desktop\examen\examen\obj\Debug\examen.csproj.CoreCompileInputs.cache
+C:\Users\Bohdan\Desktop\examen\examen\obj\Debug\examen.exe
+C:\Users\Bohdan\Desktop\examen\examen\obj\Debug\examen.pdb
+C:\Users\Bohdan\Desktop\examen\examen\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Bohdan\OneDrive\Рабочий стол\examen\examen\bin\Debug\examen.exe.config
+C:\Users\Bohdan\OneDrive\Рабочий стол\examen\examen\bin\Debug\examen.exe
+C:\Users\Bohdan\OneDrive\Рабочий стол\examen\examen\bin\Debug\examen.pdb
+C:\Users\Bohdan\OneDrive\Рабочий стол\examen\examen\obj\Debug\examen.csproj.AssemblyReference.cache
+C:\Users\Bohdan\OneDrive\Рабочий стол\examen\examen\obj\Debug\MainWindow.g.cs
+C:\Users\Bohdan\OneDrive\Рабочий стол\examen\examen\obj\Debug\App.g.cs
+C:\Users\Bohdan\OneDrive\Рабочий стол\examen\examen\obj\Debug\examen_MarkupCompile.cache
+C:\Users\Bohdan\OneDrive\Рабочий стол\examen\examen\obj\Debug\examen_MarkupCompile.lref
+C:\Users\Bohdan\OneDrive\Рабочий стол\examen\examen\obj\Debug\MainWindow.baml
+C:\Users\Bohdan\OneDrive\Рабочий стол\examen\examen\obj\Debug\examen.g.resources
+C:\Users\Bohdan\OneDrive\Рабочий стол\examen\examen\obj\Debug\examen.Properties.Resources.resources
+C:\Users\Bohdan\OneDrive\Рабочий стол\examen\examen\obj\Debug\examen.csproj.GenerateResource.cache
+C:\Users\Bohdan\OneDrive\Рабочий стол\examen\examen\obj\Debug\examen.csproj.CoreCompileInputs.cache
+C:\Users\Bohdan\OneDrive\Рабочий стол\examen\examen\obj\Debug\examen.exe
+C:\Users\Bohdan\OneDrive\Рабочий стол\examen\examen\obj\Debug\examen.pdb
